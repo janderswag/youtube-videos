@@ -1,33 +1,32 @@
-# 🎥 YouTube Videos
+ 🎥 YouTube Videos
 
-Welcome! This is the home for my YouTube content — a curated list of my videos, organized so you can easily find, watch, and share them.
+ Welcome! This is the home for my YouTube content — a curated list of my videos, organized so you can easily find, watch, and share them.
 
-## 📺 Subscribe
+ ## 📺 Subscribe
 
-If you enjoy the content, consider subscribing to the channel and hitting the bell so you never miss an upload!
+ If you enjoy the content, consider subscribing to the channel and hitting the bell so you never miss an upload!
 
-## 🗂️ Video Library
+ ## 🗂️ Video Library
 
-| Title | Description | Link |
-|-------|-------------|------|
-| This AI Employee Made This Video Itself (Full Breakdown) | Full breakdown of how an AI employee created this video itself | [Watch](https://www.youtube.com/watch?v=eURIynQGWCI) |
-| Video Title 2 | Short description of the video | [Watch](https://youtube.com/) |
-| Video Title 3 | Short description of the video | [Watch](https://youtube.com/) |
+ | Title | Description | Link |
+ |-------|-------------|------|
+ | This AI Employee Made This Video Itself (Full Breakdown) | Full breakdown of how an AI employee created this video itself | [Watch](https://www.youtube.com/watch?v=eURIynQGWCI) |
 
-## 🔥 Featured / Popular
+ ## 🔥 Featured / Popular
 
-| Highlight | Link |
-|-----------|------|
-| Most Popular Video | add link here |
-| Latest Upload | [This AI Employee Made This Video Itself (Full Breakdown)](https://www.youtube.com/watch?v=eURIynQGWCI) |
-| Fan Favorite | add link here |
+ | Highlight | Link |
+ |-----------|------|
+ | Most Popular Video | add link here |
+ | Latest Upload | [This AI Employee Made This Video Itself (Full Breakdown)](https://www.youtube.com/watch?v=eURIynQGWCI) |
+ | Fan Favorite | add link here |
 
-## 📬 Connect
+ ## 📬 Connect
 
-| Platform | Link |
-|----------|------|
-| YouTube | add your channel link |
-| Twitter/X | add your handle |
-| Instagram | add your handle |
+ | Platform | Link |
+ |----------|------|
+ | YouTube | add your channel link |
+ | Twitter/X | add your handle |
+ | Instagram | add your handle |
 
-Thanks for watching and supporting the channel! ❤️
+ Thanks for watching and supporting the channel! ❤️
+ 
